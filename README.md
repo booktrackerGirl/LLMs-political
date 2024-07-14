@@ -7,7 +7,7 @@ This is the repository for the paper <b>'We are confident in trusting Language M
   - Data: [sexist_political_metadata.csv](./data/#sexist_political_metadata.csv)
   - Code: [hypothesis_testing_triggerevents.R](./src/#hypothesis_testing_triggerevents.R)
 - <b>RQ2:</b> Can the same online sexism be efficiently captured by the LLMs through prompt engineering? Does it work better with more descriptive prompting?
-  - Data:
+  - Data: sexist_political_data.csv which contains the text column of the annotated data
   - Predictions:
       - ChatGPT - [get_gpt_pred.py](./src/#get_gpt_pred.py)
       - Flan-T5 - [get_flant5_pred.py](./src/#get_flant5_pred.py)
