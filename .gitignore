@@ -84,6 +84,7 @@ target/
 profile_default/
 ipython_config.py
 src/api_keys.py
+src/emotion_analysis.ipynb
 
 # Data or files to omit
 data/sexist_political_data.csv
