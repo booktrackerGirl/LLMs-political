@@ -1,6 +1,6 @@
 # LLMs-political
 
-This is the repository for the paper <b>'We are confident in trusting Language Models for detecting online sexism in political discourse, but are they good?'</b>.
+This is the repository for the paper <b>'Annotating Sexism in Online Political Discourse: Assessing the performance and confidence of LLMs'</b>.
 
 
 - <b>RQ1:</b> Does some external event triggering more influx of conversations centering around female politicians, consequently mean rise in online sexism?
