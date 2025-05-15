@@ -60,7 +60,7 @@ def roleplay_flan_call(prompt, model, tokenizer):
     total_prompt = system_message + human_message
     input_ids = tokenizer(total_prompt, return_tensors="pt").input_ids#.to("cuda")
 
-    output = model.generate(input_ids, max_new_tokens=10, temperature=0.0, decoder_start_token_id=tokenizer.bos_token_id)
+    output = model.generate(input_ids, max_new_tokens=10, temperature=0.5, decoder_start_token_id=tokenizer.bos_token_id)
     response = tokenizer.decode(output[0], skip_special_tokens=True)
 
     pred_output = model.generate(input_ids, max_new_tokens=10, output_scores=True, return_dict_in_generate=True, temperature=0.5)
@@ -119,7 +119,7 @@ def content_flan_call(prompt, model, tokenizer):
     total_prompt = system_message + human_message
     input_ids = tokenizer(total_prompt, return_tensors="pt").input_ids#.to("cuda")
     
-    output = model.generate(input_ids, max_new_tokens=10, temperature=0.0, decoder_start_token_id=tokenizer.bos_token_id)
+    output = model.generate(input_ids, max_new_tokens=10, temperature=0.5, decoder_start_token_id=tokenizer.bos_token_id)
     response = tokenizer.decode(output[0], skip_special_tokens=True)
 
     pred_output = model.generate(input_ids, max_new_tokens=10, output_scores=True, return_dict_in_generate=True, temperature=0.5)
@@ -192,7 +192,7 @@ def zeroshot_flan_call(prompt, model, tokenizer):
     total_prompt = system_message + human_message
     input_ids = tokenizer(total_prompt, return_tensors="pt").input_ids#.to("cuda")
     
-    output = model.generate(input_ids, max_new_tokens=10, temperature=0.0, decoder_start_token_id=tokenizer.bos_token_id)
+    output = model.generate(input_ids, max_new_tokens=10, temperature=0.5, decoder_start_token_id=tokenizer.bos_token_id)
     response = tokenizer.decode(output[0], skip_special_tokens=True)
 
     pred_output = model.generate(input_ids, max_new_tokens=10, output_scores=True, return_dict_in_generate=True, temperature=0.5)
@@ -287,7 +287,7 @@ def fewshot_flan_call(prompt, model, tokenizer):
     total_prompt = system_message + human_message
     input_ids = tokenizer(total_prompt, return_tensors="pt").input_ids#.to("cuda")
     
-    output = model.generate(input_ids, max_new_tokens=10, temperature=0.0, decoder_start_token_id=tokenizer.bos_token_id)
+    output = model.generate(input_ids, max_new_tokens=10, temperature=0.5, decoder_start_token_id=tokenizer.bos_token_id)
     response = tokenizer.decode(output[0], skip_special_tokens=True)
 
     pred_output = model.generate(input_ids, max_new_tokens=10, output_scores=True, return_dict_in_generate=True, temperature=0.5)
