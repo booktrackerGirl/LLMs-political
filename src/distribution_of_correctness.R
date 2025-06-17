@@ -4,13 +4,6 @@ library(ggplot2)
 
 # Read the dataset
 df = read.csv("./data/entropy_data/hypothesis_data.csv",header=TRUE)
-#View(df)
-
-# If label_match is logical (TRUE/FALSE), convert and relabel
-#df$label_match_roleplay <- factor(df$label_match_roleplay, levels = c("False", "True"), labels = c("Incorrect", "Correct"))
-
-
-#df$roleplay_prob <- as.numeric(df$roleplay_prob)
 
 # Plot overlapping histograms
 plot_logprob_histogram <- function(df, logprob_col, label_col, 
