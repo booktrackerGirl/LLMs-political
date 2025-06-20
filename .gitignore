@@ -90,6 +90,7 @@ src/emotion_analysis.ipynb
 data/sexist_political_data.csv
 src/add_unifier.ipynb
 src/qualitative_analysis.ipynb
+src/precision_plot.ipynb
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
