@@ -301,7 +301,11 @@ def main():
 
     ## reading the data 
     tokenizer = T5Tokenizer.from_pretrained(args.model_name)
-    model = T5ForConditionalGeneration.from_pretrained(args.model_name, return_dict=False)
+    model = T5ForConditionalGeneration.from_pretrained(
+        args.model_name,
+        device_map="cpu",
+        low_cpu_mem_usage=True
+    )
 
     # Load data
     data = pd.read_csv(args.dataset_name)

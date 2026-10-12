@@ -25,7 +25,7 @@ import itertools
 import langchain
 
 from transformers import set_seed
-set_seed(1234)
+set_seed(19993)
 
 import warnings
 warnings.filterwarnings('ignore')
@@ -312,8 +312,41 @@ def main():
     args = parser.parse_args()
 
     ## reading the data 
+    #tokenizer = T5Tokenizer.from_pretrained(args.model_name)
+    #model = T5ForConditionalGeneration.from_pretrained(args.model_name, return_dict=False)
+
+    print("ABOUT TO LOAD TOKENIZER", flush=True)
+
     tokenizer = T5Tokenizer.from_pretrained(args.model_name)
-    model = T5ForConditionalGeneration.from_pretrained(args.model_name, return_dict=False)
+
+    print("TOKENIZER LOADED", flush=True)
+    print("ABOUT TO LOAD MODEL", flush=True)
+
+    import psutil
+    import os
+
+    process = psutil.Process(os.getpid())
+    print(
+        f"RAM before model load: "
+        f"{process.memory_info().rss / 1024**3:.2f} GB",
+        flush=True
+    )
+
+    print(
+        f"Available system RAM: "
+        f"{psutil.virtual_memory().available / 1024**3:.2f} GB",
+        flush=True
+    )
+
+    model = T5ForConditionalGeneration.from_pretrained(
+        args.model_name,
+        return_dict=False,
+        torch_dtype=torch.float16,
+        low_cpu_mem_usage=True
+    )
+
+    print("MODEL LOADED", flush=True)
+
 
     # Load data
     data = pd.read_csv(args.dataset_name)

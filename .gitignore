@@ -88,6 +88,10 @@ src/emotion_analysis.ipynb
 
 # Data or files to omit
 data/sexist_political_data.csv
+data/majority_data.csv
+data/maj*.csv
+data/matched_df.csv
+data/final_df.csv
 src/add_unifier.ipynb
 src/qualitative_analysis.ipynb
 src/precision_plot.ipynb

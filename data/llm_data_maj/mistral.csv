@@ -1,0 +1,170 @@
+,uniqueID,trigger_event,majority_label,minority_label,roleplay,content,zero-shot,few-shot
+0,poli_ukdata_24-125,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+1,poli_ukdata_24-137,political,not sexist,sexist,sexist,not sexist,not sexist,not sexist
+2,poli_ukdata_24-549,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+3,poli_ukdata_24-619,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+4,poli_ukdata_24-1107,political,not sexist,sexist,not sexist,not sexist,not sexist,not sexist
+5,poli_ukdata_24-1108,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+6,poli_ukdata_24-1109,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+7,poli_ukdata_24-1110,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+8,poli_ukdata_24-1111,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+9,poli_ukdata_24-1112,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+10,poli_ukdata_24-1113,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+11,poli_ukdata_24-1114,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+12,poli_ukdata_24-1115,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+13,poli_ukdata_24-1116,political,not sexist,sexist,not sexist,not sexist,not sexist,not sexist
+14,poli_ukdata_24-1117,political,not sexist,not sexist,not sexist,not sexist,not sexist,sexist
+15,poli_ukdata_24-1118,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+16,poli_ukdata_24-1119,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+17,poli_ukdata_24-1120,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+18,poli_ukdata_24-1121,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+19,poli_ukdata_24-1122,political,sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+20,poli_ukdata_24-1123,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+21,poli_ukdata_24-1124,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+22,poli_ukdata_24-1125,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+23,poli_ukdata_24-1126,political,not sexist,not sexist,not sexist,not sexist,not sexist,sexist
+24,poli_ukdata_24-1127,political,not sexist,not sexist,sexist,not sexist,sexist,not sexist
+25,poli_ukdata_24-1128,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+26,poli_ukdata_24-1129,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+27,poli_ukdata_24-1130,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+28,poli_ukdata_24-1131,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+29,poli_ukdata_24-1132,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+30,poli_ukdata_24-1133,political,sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+31,poli_ukdata_24-1134,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+32,poli_ukdata_24-1135,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+33,poli_ukdata_24-1136,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+34,poli_ukdata_24-1137,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+35,poli_ukdata_24-1138,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+36,poli_ukdata_24-1139,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+37,poli_ukdata_24-1140,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+38,poli_ukdata_24-1141,political,not sexist,sexist,not sexist,sexist,sexist,not sexist
+39,poli_ukdata_24-1142,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+40,poli_ukdata_24-1143,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+41,poli_ukdata_24-1144,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+42,poli_ukdata_24-1145,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+43,poli_ukdata_24-1146,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+44,poli_ukdata_24-1147,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+45,poli_ukdata_24-1148,political,not sexist,not sexist,not sexist,sexist,sexist,not sexist
+46,poli_ukdata_24-1149,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+47,poli_ukdata_24-1150,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+48,poli_ukdata_24-1151,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+49,poli_ukdata_24-1152,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+50,poli_ukdata_24-1153,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+51,poli_ukdata_24-1154,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+52,poli_ukdata_24-1155,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+53,poli_ukdata_24-1156,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+54,poli_ukdata_24-1157,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+55,poli_ukdata_24-1158,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+56,poli_ukdata_24-1159,political,not sexist,sexist,sexist,not sexist,not sexist,not sexist
+57,poli_ukdata_24-1160,political,not sexist,sexist,not sexist,sexist,not sexist,not sexist
+58,poli_ukdata_24-1162,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+59,poli_ukdata_24-1163,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+60,poli_ukdata_24-1164,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+61,poli_ukdata_24-1165,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+62,poli_ukdata_24-1166,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+63,poli_ukdata_24-1167,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+64,poli_ukdata_24-1168,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+65,poli_ukdata_24-1169,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+66,poli_ukdata_24-1170,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+67,poli_ukdata_24-1171,political,not sexist,sexist,not sexist,not sexist,not sexist,not sexist
+68,poli_ukdata_24-1172,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+69,poli_ukdata_24-1173,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+70,poli_ukdata_24-1174,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+71,poli_ukdata_24-1175,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+72,poli_ukdata_24-1176,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+73,poli_ukdata_24-1177,political,not sexist,not sexist,not sexist,not sexist,not sexist,sexist
+74,poli_ukdata_24-1178,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+75,poli_ukdata_24-1179,political,not sexist,sexist,not sexist,not sexist,not sexist,not sexist
+76,poli_ukdata_24-1180,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+77,poli_ukdata_24-1181,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+78,poli_ukdata_24-1182,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+79,poli_ukdata_24-1183,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+80,poli_ukdata_24-1184,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+81,poli_ukdata_24-1185,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+82,poli_ukdata_24-1186,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+83,poli_ukdata_24-1187,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+84,poli_ukdata_24-1188,political,not sexist,not sexist,not sexist,sexist,sexist,not sexist
+85,poli_ukdata_24-1189,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+86,poli_ukdata_24-1190,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+87,poli_ukdata_24-1191,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+88,poli_ukdata_24-1192,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+89,poli_ukdata_24-1193,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+90,poli_ukdata_24-1194,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+91,poli_ukdata_24-1195,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+92,poli_ukdata_24-1196,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+93,poli_ukdata_24-1197,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+94,poli_ukdata_24-1198,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+95,poli_ukdata_24-1199,political,not sexist,not sexist,not sexist,sexist,sexist,not sexist
+96,poli_ukdata_24-1200,political,not sexist,not sexist,not sexist,sexist,sexist,not sexist
+97,poli_ukdata_24-1201,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+98,poli_ukdata_24-1202,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+99,poli_ukdata_24-1203,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+100,poli_ukdata_24-1204,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+101,poli_ukdata_24-1205,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+102,poli_ukdata_24-1206,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+103,poli_ukdata_24-1207,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+104,poli_ukdata_24-1208,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+105,poli_ukdata_24-1209,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+106,poli_ukdata_24-1210,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+107,poli_ukdata_24-1211,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+108,poli_ukdata_24-1212,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+109,poli_ukdata_24-1213,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+110,poli_ukdata_24-1214,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+111,poli_ukdata_24-1215,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+112,poli_ukdata_24-1216,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+113,poli_ukdata_24-1217,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+114,poli_ukdata_24-1218,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+115,poli_ukdata_24-1219,political,not sexist,not sexist,sexist,not sexist,sexist,not sexist
+116,poli_ukdata_24-1220,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+117,poli_ukdata_24-1221,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+118,poli_ukdata_24-1222,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+119,poli_ukdata_24-1223,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+120,poli_ukdata_24-1224,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+121,poli_ukdata_24-1225,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+122,poli_ukdata_24-1226,political,not sexist,not sexist,sexist,sexist,sexist,not sexist
+123,poli_ukdata_24-1227,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+124,poli_ukdata_24-1228,political,not sexist,sexist,sexist,not sexist,not sexist,not sexist
+125,poli_ukdata_24-1229,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+126,poli_ukdata_24-1230,political,not sexist,not sexist,not sexist,not sexist,not sexist,sexist
+127,poli_ukdata_24-1231,political,not sexist,not sexist,not sexist,not sexist,not sexist,sexist
+128,poli_ukdata_24-1232,political,not sexist,not sexist,sexist,not sexist,sexist,not sexist
+129,poli_ukdata_24-1233,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+130,poli_ukdata_24-1234,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+131,poli_ukdata_24-1235,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+132,poli_ukdata_24-1236,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+133,poli_ukdata_24-1237,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+134,poli_ukdata_24-1238,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+135,poli_ukdata_24-1239,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+136,poli_ukdata_24-1240,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+137,poli_ukdata_24-1241,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+138,poli_ukdata_24-1242,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+139,poli_ukdata_24-1243,political,not sexist,not sexist,not sexist,not sexist,not sexist,sexist
+140,poli_ukdata_24-1244,political,not sexist,not sexist,not sexist,sexist,sexist,not sexist
+141,poli_ukdata_24-1245,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+142,poli_ukdata_24-1246,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+143,poli_ukdata_24-1247,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+144,poli_ukdata_24-1248,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+145,poli_ukdata_24-1249,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+146,poli_ukdata_24-1250,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+147,poli_ukdata_24-1251,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+148,poli_ukdata_24-1252,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+149,poli_ukdata_24-1253,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+150,poli_ukdata_24-1254,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+151,poli_ukdata_24-1255,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+152,poli_ukdata_24-1256,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+153,poli_ukdata_24-1257,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+154,poli_ukdata_24-1258,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+155,poli_ukdata_24-1259,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
+156,poli_ukdata_24-1260,political,not sexist,sexist,not sexist,not sexist,not sexist,not sexist
+157,poli_ukdata_24-1261,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+158,poli_ukdata_24-1262,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+159,poli_ukdata_24-1263,political,not sexist,not sexist,not sexist,not sexist,sexist,not sexist
+160,poli_ukdata_24-1264,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+161,poli_ukdata_24-1265,political,not sexist,not sexist,sexist,not sexist,not sexist,not sexist
+162,poli_ukdata_24-1266,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+163,poli_ukdata_24-1267,political,not sexist,not sexist,not sexist,sexist,sexist,not sexist
+164,poli_ukdata_24-1268,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+165,poli_ukdata_24-1269,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+166,poli_ukdata_24-1270,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+167,poli_ukdata_24-1271,political,not sexist,not sexist,not sexist,not sexist,not sexist,not sexist
+168,poli_ukdata_24-1272,political,not sexist,not sexist,not sexist,sexist,not sexist,not sexist
